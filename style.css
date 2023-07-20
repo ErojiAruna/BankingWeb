@@ -1,0 +1,13 @@
+:root {
+  --color-primary: #2dd4bf;
+  --color-secondary: #a3e635;
+  --color-tertiary: #f472b6;
+  --color-primary-darker: #042f2e;
+  --color-secondary-darker: #1a2e05;
+  --color-tertiary-darker: #500724;
+  --color-primary-opacity: #0f766e;
+  --color-secondary-opacity: #4d7c0f;
+  --color-tertiary-opacity: #be185d;
+  --gradient-primary: linear-gradient(to top left, #5eead4, #bef264);
+  --gradient-secondary: linear-gradient(to top left, #f9a8d4, #a3e635);
+}
